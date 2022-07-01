@@ -25,7 +25,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=governedbyprudence&show_icons=true&locale=en&layout=compact" alt="governedbyprudence" /></p>
 
-<p align="center"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"></a></p></p>
+<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Synthwave" height="300" width="500"></p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/punnyartha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="punnyartha" /></a></p><br><br>
