@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **punnyarthabanerjee@gmail.com**
 
-- 📄 Know about my experiences[(https://drive.google.com/file/d/1rFDb_24kwA8zcpNO2icKOcW-89xkKhSF/view?usp=sharing)]](https://drive.google.com/file/d/1rFDb_24kwA8zcpNO2icKOcW-89xkKhSF/view?usp=sharing)
+- 📄 Know about my experiences[(https://drive.google.com/file/d/1rFDb_24kwA8zcpNO2icKOcW-89xkKhSF/view?usp=sharing)]]
 - ⚡ Fun fact **One of the world’s leading computer and computer peripheral manufacturers Hewlett Packard, was first started in a garage at Palo Alto in 1939.**
 
 <h3 align="left">Connect with me:</h3>
