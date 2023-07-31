@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/punnyartha" target="blank"><img src="https://img.shields.io/twitter/follow/punnyartha?logo=twitter&style=for-the-badge" alt="punnyartha" /></a> </p>
 
-- 🔭 Looking for a freelancer to build your dream ? **Feel free to discuss !**
-
 - 🌱 I’m currently learning **Machine Learning and Blockchain**
 
 - 👯 I’m looking to collaborate on **any project !**
 
-- 💬 Ask me about **Python, Django, Flutter, Web.**
+- 💬 Ask me about **Python, Django, Flutter, Web, React. **
 
 - 📫 How to reach me **punnyarthabanerjee@gmail.com**
 
